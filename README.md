@@ -35,8 +35,9 @@ This repository is structured into modules corresponding to the different scales
 
 You can run these interactive notebooks directly in your browser or locally:
 
-1. **Google Colab (Recommended):** Click on the individual Jupyter Notebook files within the module folders and use the "Open in Colab" badge to launch directly in a GPU-accelerated cloud environment.
-2. **Local Environment:** Clone this repository and run locally:
+1. **Google Colab (Recommended):**
+Access the Workshop Google Drive [folder](https://drive.google.com/drive/folders/1P1X86TbaQOwjSUs52jXv-_IvPvtsM_bE?usp=sharing). Click on the individual Jupyter Notebook files within the module folders and use the "Open in Colab" badge to launch directly in a GPU-accelerated cloud environment.
+3. **Local Environment:** Clone this repository and run locally:
    ```bash
    git clone [https://github.com/WHONDRS-Hub/AI-Enabled_Multiscale_Environmental_Science.git](https://github.com/WHONDRS-Hub/AI-Enabled_Multiscale_Environmental_Science.git)
    cd AI-Enabled_Multiscale_Environmental_Science
