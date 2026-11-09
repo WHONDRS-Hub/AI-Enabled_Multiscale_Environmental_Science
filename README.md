@@ -29,7 +29,7 @@ This repository is structured into modules corresponding to the different scales
 ├── Part1_Module_2_Surface_Water_Dynamics/        # Module 2: Wildlife camera image segmentation (YOLOv8, Mask2Former)
 ├── Part2_Module3_Geospatial_Foundation_Models/    # Module 3: Pre-extracted embeddings & Everglades inundation prediction
 └── README.md                                      # Repository orientation & overview
-
+```
 ---
 ## Getting Started
 
