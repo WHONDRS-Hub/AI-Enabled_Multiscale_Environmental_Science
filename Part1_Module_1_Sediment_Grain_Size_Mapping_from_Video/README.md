@@ -7,7 +7,7 @@
 
 ## Step 1 · Open a demo
 
-Select a notebook below, or browse the [Demo_Colab](https://github.com/pnnl/AI4GSD/tree/main/Demo_Colab) folder. Once the notebook was opened in Colab, click **Copy to Drive** below the **Help** menu to save a copy to your Google Drive. By default, the copy is saved in **My Drive → Colab Notebooks**. Example datasets are available in [Demo_Data](https://github.com/pnnl/AI4GSD/tree/main/Demo_Data).
+Select a notebook below, or browse the [Demo_Colab](https://github.com/pnnl/AI4GSD/tree/main/Demo_Colab) folder. Once the notebook is opened in Colab, click **Copy to Drive** below the **Help** menu to save a copy to your Google Drive. By default, the copy is saved in **My Drive → Colab Notebooks**. Example datasets are available in [Demo_Data](https://github.com/pnnl/AI4GSD/tree/main/Demo_Data).
 
 * [Demo 1: Drone Videos](https://colab.research.google.com/github/pnnl/AI4GSD/blob/main/Demo_Colab/Demo1_Drone_Videos.ipynb) — Process drone videos.
 
