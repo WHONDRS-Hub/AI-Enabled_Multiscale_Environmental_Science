@@ -4,7 +4,7 @@
 
 [AI4GSD](https://github.com/pnnl/AI4GSD) is an open-source tool for mapping sediment grain-size distributions from drone and smartphone photos and videos. This workshop will demonstrate how to apply the tool to process drone and smartphone videos and images. This tutorial is adapted from AI4GSD usage Option 2 for running AI4GSD in Colab. Plesae visit the official repository ([https://github.com/pnnl/AI4GSD](https://github.com/pnnl/AI4GSD)) for software details and instructions for running AI4GSD on your computer.
 
-Google Colab lets you run the demos in your browser using Google’s computing resources. You need a **Google account**, but you do not need to install AI4GSD or download the images and models to your computer.
+Select a notebook below, or browse the [Demo_Colab](https://github.com/pnnl/AI4GSD/tree/main/Demo_Colab) folder. Once the notebook opens in Colab, click **Copy to Drive** below the **Help** menu to save a copy to your Google Drive. By default, the copy is saved in **My Drive → Colab Notebooks**. Example datasets are available in [Demo_Data](https://github.com/pnnl/AI4GSD/tree/main/Demo_Data).
 
 ## Step 1 · Open a demo
 
