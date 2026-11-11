@@ -14,7 +14,7 @@ By the end of this workshop, participants will be able to:
 
 1. **Describe Multiscale AI Approaches:** Explain how AI addresses scale mismatches between fine-scale process characterization and landscape-scale prediction, including the roles of computer vision for local data extraction and geospatial foundation models for spatial extrapolation.
 2. **Quantify Surface Water Dynamics:** Apply image segmentation models to wildlife camera imagery to calculate wet fractions and approximate real-world stream width using camera positioning metadata, while assessing failure conditions (e.g., snow cover, night vision, extreme lighting).
-3. **Map Fine-Scale Heterogeneity:** Use the [AI4GSD](https://drive.google.com/drive/folders/1P1X86TbaQOwjSUs52jXv-_IvPvtsM_bE) software pipeline to derive centimeter-resolution sediment grain size distributions from smartphone or drone videos with automated quality control.
+3. **Map Fine-Scale Heterogeneity:** Use the [AI4GSD](https://github.com/pnnl/AI4GSD) software pipeline to derive centimeter-resolution sediment grain size distributions from smartphone or drone videos with automated quality control.
 4. **Utilize Geospatial Foundation Models:** Use geospatial foundation model embeddings for semantic search and landscape-scale prediction of environmental states, including downloading embeddings and developing predictive models from sparse field-derived labels.
 
 ---
